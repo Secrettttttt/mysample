@@ -1,5 +1,5 @@
-bagong edit
-try ulit
-clear
-sige nga try mo ulit
-weh d nga
+1
+2
+3
+4
+5
